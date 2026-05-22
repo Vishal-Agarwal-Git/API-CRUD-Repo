@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using API_CRUD_Repo.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace API_CRUD_Repo.Data
 {
